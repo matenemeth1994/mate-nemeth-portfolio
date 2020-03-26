@@ -24,13 +24,6 @@
   object-fit: cover;
   }
 
-
-
-
-// #particle-container {
-//   max-width: 100%;
-// }
-
 .particle {
 	position: absolute;
    border-radius: 50%;
@@ -58,4 +51,8 @@
 html, body {
   max-width: 100%;
   overflow-x: hidden;
+}
+
+.landing-page {
+	min-height: 100vh;
 }
